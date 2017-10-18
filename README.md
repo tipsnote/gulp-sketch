@@ -7,19 +7,16 @@ https://github.com/cognitom/gulp-sketch
 
 ```
 $ npm install
-
 ```
 
 ##Sketchファイルからスライス設定をしたものをエクスポート
 
 ```
 $ gulp sketch
-
 ```
 
 ##Sketchを監視 変更があればエクスポート
 
 ```
 $ gulp watch
-
 ```
