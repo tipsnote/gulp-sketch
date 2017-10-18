@@ -14,7 +14,7 @@ const sketchOptions = {
 }
 
 const minifyOptions = {
-  "images":true
+  "images":false
 }
 
 gulp.task("sketch", () => {
